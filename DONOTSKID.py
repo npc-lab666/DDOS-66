@@ -12,14 +12,13 @@ def clear_screen():
 clear_screen()
 
 # Büyük ASCII "NPCSLAB" yazısı (Kırmızı)
-ascii_banner = pyfiglet.figlet_format("WELCOME TO THE SECRET TOP DDOS MADE BY NPC NO RATS JUST DDOS ON WEBSITE THATS ALL")
-print(colored(ascii_banner, 'blue'))
+ascii_banner = pyfiglet.figlet_format("FSOCIETY TEAM")
+print(colored(ascii_banner, 'red'))
 
 # Küçük kırmızı "TikTok: zted_or_npc" yazısı
-print(colored("TikTok: zted_or_npc", 'blue'))
-print(colored("JUST ADD A HTTP ANY THING",'blue")
+print(colored("TikTok: zted_or_npc", 'red'))
 
-# Kullanıcıdan Hedef siteyi al
+# Kullanıcıdan WEBSITE ATTACKER al
 target_url = input("\nHedef siteyi gir (http:// veya https:// ile): ")
 
 # Aynı anda çalışacak istek sayısı
