@@ -17,9 +17,9 @@ print(colored(ascii_banner, 'blue'))
 
 # Küçük kırmızı "TikTok: zted_or_npc" yazısı
 print(colored("TikTok: zted_or_npc", 'blue'))
-print(colored("JUST ADD A HTTP ANY THING")
+print(colored("JUST ADD A HTTP ANY THING",'blue")
 
-# Kullanıcıdan ADD THE HTTP OF THE WEBSITE al
+# Kullanıcıdan Hedef siteyi al
 target_url = input("\nHedef siteyi gir (http:// veya https:// ile): ")
 
 # Aynı anda çalışacak istek sayısı
